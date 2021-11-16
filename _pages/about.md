@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I am a 12-year old skater from San Francisco, California. I want to go to [Princeton University](https://www.princeton.edu).
-
-{% include iframe.html %}
